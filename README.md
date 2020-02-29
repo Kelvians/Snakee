@@ -1,0 +1,2 @@
+# Snakee
+Metinis projektinis darbas

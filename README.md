@@ -1,2 +1,2 @@
 # Snakee
-Metinis projektinis darbas
+Veikia atsisiuntus windows-curses
